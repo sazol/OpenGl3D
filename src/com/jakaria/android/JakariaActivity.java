@@ -7,6 +7,7 @@
  * Visit http://www.pragmaticprogrammer.com/titles/kbogla for more book information.
 ***/
 package com.jakaria.android;
+//yfgjdthjrghfn
 
 import android.app.Activity;
 import android.app.ActivityManager;
